@@ -166,7 +166,7 @@ Berdasarkan grafik feature importance dari model Random Forest Classifier, fitur
 12. Sweetalert2
 13. REST API + Flask
 
-### Kesimpulan
+## Kesimpulan
 Penerapan Random Forest Classifier terbukti efektif dalam memprediksi status stok produk Bolen Crispy dengan akurasi 93%. Melalui penerapan SMOTE dan feature engineering, kualitas dataset meningkat sehingga model mampu memberikan prediksi yang lebih akurat dan seimbang. Sistem ini berpotensi diintegrasikan ke dalam sistem manajemen persediaan berbasis data untuk meningkatkan efisiensi dan mengurangi risiko overstock maupun understock.
 
 ## Saran untuk Pengembangan Selanjutnya
